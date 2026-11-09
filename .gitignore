@@ -1,0 +1,12 @@
+# ESP-IDF 构建产物
+build/
+sdkconfig
+sdkconfig.old
+*.bin
+*.elf
+*.map
+
+# 编辑器与系统文件
+.vscode/
+.idea/
+.DS_Store
